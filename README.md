@@ -25,9 +25,9 @@ Contact section for collaboration opportunities
 
 ## Screenshots
 
-![Homepage](/images/portfolmein.JPG)
+![Homepage](/images/portfol.JPG)
 
-![Project gallery](/images/portfoliomy.JPG)
+![Project gallery](/images/proekt.JPG)
 
 ## Tech Stack
 
